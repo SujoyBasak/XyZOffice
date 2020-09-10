@@ -13,7 +13,7 @@ namespace XyzOfficeEmployeeTrackerr.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Updated"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Updated","Modified"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
